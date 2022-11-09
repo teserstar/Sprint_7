@@ -27,4 +27,4 @@ hs_err_pid*
 
 # Project folder
 target/
-!target/site/jacoco/
+!target/allure-results
